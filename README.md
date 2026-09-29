@@ -1,12 +1,12 @@
 # Hi, I'm Pierre Puget
 
-Computer Science student (BUT Informatique) based in Arles, France — currently building toward an engineering degree in Networks & Cybersecurity.
+Computer Science student (BUT Informatique) based in Arles, France
 
 ---
 
 ## About Me
 
-- Second/third-year student in **BUT Informatique** at IUT d'Arles, focused on programming, algorithms and systems.
+- Second-year student in **BUT Informatique** at IUT d'Arles, focused on programming, algorithms and systems.
 - Next step: an **engineering school (3 years)** specialized in Networks, Telecommunications & Cybersecurity — actively looking to do this **in apprenticeship (alternance)**, to learn on real infrastructure rather than in theory only.
 - Long-term direction: something like DevSecOps Engineer, SOC Analyst or Security Architect — not fixed on the title, the actual goal is joining a team of experts and getting hands-on experience fast.
 - I learn by shipping: every project below came out of a course, a SAE, or something I wanted to build and finish properly.
