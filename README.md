@@ -21,7 +21,8 @@ system where every planet is a project.
 - I learn by shipping: every project below came out of a course, a SAE, or something
   I wanted to build and finish properly.
 - I use AI as a tool I direct: framing the work, reviewing every change, checking the
-  result.
+  result. Claude Code for development (this portfolio and Panel were built that way),
+  Ollama to run LLMs locally.
 
 ---
 
@@ -45,6 +46,12 @@ system where every planet is a project.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+**AI & LLMs**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4B5563?style=for-the-badge)
 
 **Systems & tools**
 
